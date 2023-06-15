@@ -65,3 +65,4 @@ WPF 모니터링, 컨트롤화면
 	- 파이카메라 v1.3 ov5647
 	- OpenCV 4.7
 	- 카메라 연동 QrCode
+	- 푸시버튼 누르면 QRCODE 찍어서 QRCode에 웹사이트 주소가 있으면 웹브라우저 띄우는 예제(Day07/qrcode_check.py)
